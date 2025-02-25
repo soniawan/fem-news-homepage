@@ -20,7 +20,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Live Site URL: [News Homepage Awan](link)
+- Live Site URL: [News Homepage Awan](https://fem-news-homepage-gamma.vercel.app/)
 
 ## My process
 
